@@ -230,3 +230,25 @@
 ![Char_21_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_21_death.png)
 ![Char_21_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_21_dysentery.png)
 ![Char_21_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_21_gun_attack.png)
+
+## Character 22 (Citizen #2224)
+
+![Char_22_idle](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_idle.png)
+![Char_22_gun](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_gun.png)
+![Char_22_katana](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_katana.png)
+![Char_22_Overheated](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_Overheated.png)
+![Char_22_katana_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_katana_attack.png)
+![Char_22_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_death.png)
+![Char_22_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_dysentery.png)
+![Char_22_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_22_gun_attack.png)
+
+## Character 23
+
+![Char_23_idle](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_idle.png)
+![Char_23_gun](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_gun.png)
+![Char_23_katana](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_katana.png)
+![Char_23_Overheated](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_Overheated.png)
+![Char_23_katana_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_katana_attack.png)
+![Char_23_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_death.png)
+![Char_23_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_dysentery.png)
+![Char_23_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_gun_attack.png)
