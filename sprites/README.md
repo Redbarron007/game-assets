@@ -252,3 +252,14 @@
 ![Char_23_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_death.png)
 ![Char_23_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_dysentery.png)
 ![Char_23_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_23_gun_attack.png)
+
+## Character 24 (Citizen #2152)
+
+![Char_24_idle](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_idle.png)
+![Char_24_gun](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_gun.png)
+![Char_24_katana](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_katana.png)
+![Char_24_Overheated](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_Overheated.png)
+![Char_24_katana_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_katana_attack.png)
+![Char_24_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_death.png)
+![Char_24_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_dysentery.png)
+![Char_24_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_24_gun_attack.png)
