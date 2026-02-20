@@ -362,3 +362,14 @@
 ![Char_33_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_33_death.png)
 ![Char_33_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_33_dysentery.png)
 ![Char_33_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_33_gun_attack.png)
+
+## Character 34 (Citizen #1562)
+
+![Char_34_idle](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_idle.png)
+![Char_34_gun](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_gun.png)
+![Char_34_katana](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_katana.png)
+![Char_34_Overheated](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_Overheated.png)
+![Char_34_katana_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_katana_attack.png)
+![Char_34_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_death.png)
+![Char_34_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_dysentery.png)
+![Char_34_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_34_gun_attack.png)
