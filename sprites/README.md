@@ -472,3 +472,14 @@
 ![Char_43_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_43_death.png)
 ![Char_43_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_43_dysentery.png)
 ![Char_43_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_43_gun_attack.png)
+
+## Character 44
+
+![Char_44_idle](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_idle.png)
+![Char_44_gun](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_gun.png)
+![Char_44_katana](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_katana.png)
+![Char_44_Overheated](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_Overheated.png)
+![Char_44_katana_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_katana_attack.png)
+![Char_44_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_death.png)
+![Char_44_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_dysentery.png)
+![Char_44_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_gun_attack.png)
