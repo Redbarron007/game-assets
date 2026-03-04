@@ -483,3 +483,18 @@
 ![Char_44_death](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_death.png)
 ![Char_44_dysentery](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_dysentery.png)
 ![Char_44_gun_attack](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/Char_44_gun_attack.png)
+
+## Firestorm Spell
+
+![firestorm_frame_1](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_1.png)
+![firestorm_frame_2](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_2.png)
+![firestorm_frame_3](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_3.png)
+![firestorm_frame_4](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_4.png)
+![firestorm_frame_5](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_5.png)
+![firestorm_frame_6](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_6.png)
+![firestorm_frame_7](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_7.png)
+![firestorm_frame_8](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/firestorm_frame_8.png)
+
+## Special Characters
+
+![char_3_codebreaker](https://raw.githubusercontent.com/Redbarron007/game-assets/main/sprites/char_3_codebreaker.png)
